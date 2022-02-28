@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Hrishikesh I am pursuing B.Tech CSE
 
 <!--
 **Hrishi4kesh/Hrishi4kesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
