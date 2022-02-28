@@ -1,5 +1,6 @@
 ### Hi there 👋, Hrishikesh I am pursuing B.Tech CSE
 - 🌱 I’m currently learning c++
+- 📫 How to reach me:hrishi1402@gmail.com
 
 <!--
 **Hrishi4kesh/Hrishi4kesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
