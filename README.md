@@ -1,4 +1,4 @@
-### Hi there 👋, Hrishikesh I am pursuing B.Tech CSE
+### Hi there 👋, I am pursuing B.Tech CSE
 - 🌱 I’m currently learning c++
 - 📫 How to reach me:
 
