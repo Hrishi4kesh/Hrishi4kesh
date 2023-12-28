@@ -17,7 +17,7 @@
     <a href="https://github.com/Hrishi4kesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" /></a>
     <a href="https://www.instagram.com/_hrishikesh_bhatt_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a>
     <a href="https://www.linkedin.com/in/hrishikeshbhatt01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a> 
-    <a href="https://twitter.com/_Hrishi_kesh_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a></p>
+    <a href="https://twitter.com/_Hrishi_kesh_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="40" height="40" /></a></p>
 
 <br>
 <h3><p align="center"><b>Github Stats</b></p></h3>
