@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hrishikesh Bhatt</h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&weight=500&size=45&duration=4000&pause=1000&color=63A0F7&random=false&width=415&height=70&lines=Hi+There!!%F0%9F%91%8B;I'm+Hrishikesh+Bhatt" alt="Typing SVG" /></h1>
 <h3 align="center">An enthusiastic person wants to explore the different dimensions of the technology world.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/animation/2023/01/24/10/52/10-52-12-184_512.gif">
 - 🌱 I’m currently learning **ML & AI🤖**
